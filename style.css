@@ -1,0 +1,40 @@
+body{
+ background-size : cover;
+}
+h1{
+ background-color : firebrick;
+ width : 60%;
+ border-radius : 10px;
+ box-shadow : red 5px 5px 4px;
+ margin-top : 0px;
+}
+#rules{
+ float : right;
+ margin : 2.5px;
+ height : 35px;
+ width : 100px;
+ font-size : 15px;
+ background-color : floralwhite;
+}
+.modal-dialog{
+ width : 60%;
+}
+.text-primary{
+ margin-left : 35px;
+}
+#footer{
+ position : sticky;
+ bottom : 0px;
+ background-color : forestgreen;
+ text-align : center;
+}
+img{
+ width : 25px;
+}
+h4{
+ color : aquamarine;
+}
+canvas{
+ border : red 2px ridge;
+ border-radius : 5px;
+}
